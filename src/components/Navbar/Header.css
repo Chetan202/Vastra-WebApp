@@ -1,0 +1,57 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+  overflow: hidden;
+  width: 74rem;
+  height: 100px;
+  align-items: center;
+
+  /* border-radius: 5px; */
+  /* background: #3EC1D3; */
+  background-color: #F5EEDC;
+  padding: 0px;
+  margin: 0px;
+}
+
+.otherMenu ul {
+  display: flex;
+  flex-direction: row;
+  float: left;
+  width: 200px;
+}
+
+img {
+  width: 150px;
+}
+
+li {
+  list-style: none;
+  transition: 0.2s;
+}
+
+li:hover {
+  /* From https://css.glass */
+  /* background: rgba(255, 255, 255, 0.22); */
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  background-color: #fdfdfd;
+  border-color: #a1eafb;
+  color: rgb(0, 0, 0);
+  /* border: 1.4px solid #A1EAFB; */
+}
+
+a {
+  text-decoration: none;
+  font-weight: 800;
+}
+
+a:hover{
+  color:black;
+
+}
+
+
+.logo {
+  padding: 0;
+}
