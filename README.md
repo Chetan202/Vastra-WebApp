@@ -15,4 +15,3 @@ CHECKOUT
 
 ![I4](https://user-images.githubusercontent.com/52883959/178796343-32b05fab-2b8f-4199-85db-8cec692ed905.png)
 
-This project is underdevelopment.
